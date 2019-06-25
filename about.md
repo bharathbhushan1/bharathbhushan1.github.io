@@ -4,15 +4,25 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Me
+I am Bharath Bhushan, a software engineer residing in
+[Bengaluru](https://en.wikipedia.org/wiki/Bangalore),
+[India](https://en.wikipedia.org/wiki/India). This website captures my learning
+in the areas of [Big Data](https://en.wikipedia.org/wiki/Big_data) and
+[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). I am
+also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_India), [philosophy](https://en.wikipedia.org/wiki/Indian_philosophy) and [Dharma](https://en.wikipedia.org/wiki/Dharma).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## Contact information
+* [Twitter](https://twitter.com/bharath_bhushan)
+* [LinkedIn](https://in.linkedin.com/in/bharath-bhushan-5a8bb83)
+* [Github](https://github.com/bharathbhushan1/)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## My journey
 
-
-[jekyll-organization]: https://github.com/jekyll
+* [Qubole](https://www.qubole.com) (last role was Director Engineering, 2014-2018)
+* [Appcito](https://twitter.com/appcito?lang=en) (Consulting Software Engineer, 2014)
+* [Google](https://about.google/intl/en/) (Software Engineer III, 2011-2014)
+* [Zscaler](https://www.zscaler.com) (Senior Software Engineer, 2007-2011)
+* [NetScaler/Citrix](https://en.wikipedia.org/wiki/NetScaler) (Senior Software Engineer, 2004-2007)
+* [IIT Madras](https://www.iitm.ac.in) (MTech, Computer Science, 2002-2004)
+* [RVCE](https://www.rvce.edu.in) (B.E., Computer Science, 1998-2002)
