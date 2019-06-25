@@ -26,3 +26,19 @@ also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_Ind
 * [NetScaler/Citrix](https://en.wikipedia.org/wiki/NetScaler) (Senior Software Engineer, 2004-2007)
 * [IIT Madras](https://www.iitm.ac.in) (MTech, Computer Science, 2002-2004)
 * [RVCE](https://www.rvce.edu.in) (B.E., Computer Science, 1998-2002)
+
+----
+
+## All posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      (tags: 
+        {% for t in post.tags %}
+          {{ t }}
+        {% endfor %}
+      )
+    </li>
+  {% endfor %}
+</ul>
