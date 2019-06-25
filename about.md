@@ -48,8 +48,8 @@ Some of the important products/features which I have been involved with:
 * [Zscaler Central Authority](https://help.zscaler.com/zia/about-zscaler-cloud-architecture)
 * [Integrated Caching in Netscaler](https://docs.citrix.com/en-us/netscaler/12/optimization/integrated-caching.html)
 
-## Legacy stuff
-At various times in the past I used to maintain a blog on [medium](https://medium.com/@manku_timma1), [github](http://manku-timma.github.io) and on [write.as](https://write.as/bharathbhushan/). I have now merged all those articles into this blog.
+## Other blogs
+At various times in the past I used to maintain a blog on [medium](https://medium.com/@manku_timma1), [github](http://manku-timma.github.io) and on [write.as](https://write.as/bharathbhushan/). I have now merged all those articles into this blog. I intend to henceforth maintain this as my only blog site.
 
 ----
 
