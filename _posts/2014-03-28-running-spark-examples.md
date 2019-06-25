@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running Apache Spark examples
-tags: apache spark
+tags: [ apache spark]
 date:   2014-03-28 10:00:00
 ---
 

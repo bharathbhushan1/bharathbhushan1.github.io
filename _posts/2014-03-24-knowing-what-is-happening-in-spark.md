@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keeping track of what is happening in Apache Spark
-tags: apache spark
+tags: [ apache spark]
 date:   2014-03-24 06:40:00
 ---
 

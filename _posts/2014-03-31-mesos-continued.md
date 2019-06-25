@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Running Apache Spark on Apache Mesos (continued)
-tags: apache mesos
+tags: [ apache mesos]
 date:   2014-03-31 06:00:00
 ---
 

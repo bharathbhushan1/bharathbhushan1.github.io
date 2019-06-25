@@ -2,7 +2,7 @@
 layout: post
 title:  Linux Device Drivers
 date:   2014-06-29 16:50:00
-tags: linux, device drivers
+tags: [ linux, device drivers]
 ---
 
 I started reading [LDD3][ldd3]. Here are some notes.

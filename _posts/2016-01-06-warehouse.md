@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What are measures, dimensions and facts
-tags: data warehouse
+tags: [ data warehouse]
 date:   2016-01-06 19:00:00
 ---
 

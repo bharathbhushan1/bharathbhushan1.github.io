@@ -2,7 +2,7 @@
 layout: post
 title: Playing with HBase (part 2)
 date:   2014-04-07 20:00:00
-tags: hbase
+tags: [ hbase]
 ---
 
 I used [Pig][pig] to load data into hbase.

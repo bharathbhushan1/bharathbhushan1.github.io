@@ -2,7 +2,7 @@
 layout: post
 title:  "Trying out spark streaming"
 date:   2014-04-01 12:00:00
-tags: apache spark, streaming
+tags: [ apache spark, streaming]
 ---
 
 I am playing with simple examples of spark streaming [here][1] and [here][2].

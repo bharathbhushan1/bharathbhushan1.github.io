@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Basic usage of Apache Spark
-tags: apache spark
+tags: [ apache spark]
 date:   2014-03-23 10:00:00
 ---
 

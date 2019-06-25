@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chess Tablebases
-tags: chess
+tags: [ chess]
 date:   2019-03-05 20:00:00
 ---
 

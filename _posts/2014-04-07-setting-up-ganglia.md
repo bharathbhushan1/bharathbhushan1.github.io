@@ -2,7 +2,7 @@
 layout: post
 title:  Setting up Ganglia
 date:   2014-04-07 10:00:00
-tags: ganglia, monitoring
+tags: [ ganglia, monitoring]
 ---
 
 Just for my reference, this is how I setup [ganglia][ganglia] on my ubuntu

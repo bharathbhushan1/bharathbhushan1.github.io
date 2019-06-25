@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apache spark use cases
-tags: apache spark
+tags: [ apache spark]
 date:   2014-03-26 10:00:00
 ---
 

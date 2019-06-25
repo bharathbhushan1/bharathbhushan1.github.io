@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Alternatives to SGD
-tags: machine learning
+tags: [ machine learning]
 date:   2019-03-05 20:00:00
 ---
 

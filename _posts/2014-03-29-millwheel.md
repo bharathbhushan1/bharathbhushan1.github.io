@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Understanding Millwheel
-tags: millwheel
+tags: [ millwheel]
 date:   2014-03-29 10:00:00
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big data processing toy example - Part 2
-tags: apache spark
+tags: [ apache spark]
 date:   2014-03-25 12:00:00
 ---
 

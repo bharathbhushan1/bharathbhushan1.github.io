@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to use spark with anaconda python
-tags: spark, anaconda, python, yarn
+tags: [ spark, anaconda, python, yarn]
 date:   2015-12-12 08:00:00
 ---
 

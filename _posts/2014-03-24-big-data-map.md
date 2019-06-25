@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mental map of big data software
-tags: apache spark
+tags: [ apache spark]
 date:   2014-03-24 20:00:00
 ---
 

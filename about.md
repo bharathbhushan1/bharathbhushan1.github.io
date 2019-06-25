@@ -34,10 +34,7 @@ also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_Ind
   {% for post in site.posts %}
     <li> {{ post.date | date_to_string }}:
       <a href="{{ post.url }}">{{ post.title }}</a>
-      (tags: 
-        {% for t in post.tags %}
-          {{ t }}
-        {% endfor %}) 
+      (tags: {{ post.tags | array_to_sentence_string }})
     </li>
   {% endfor %}
 </ul>

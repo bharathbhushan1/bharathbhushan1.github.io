@@ -2,7 +2,7 @@
 layout: post
 title: Playing with HBase
 date:   2014-04-07 14:00:00
-tags: hbase
+tags: [ hbase]
 ---
 
 Below are the steps I followed to get HBase up and running.

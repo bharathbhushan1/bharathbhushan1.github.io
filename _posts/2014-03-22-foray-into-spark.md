@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Apache Spark, jekyll, github pages and rubygems
-tags: apache spark, jekyll, github pages, rubygems
+tags: [ apache spark, jekyll, github pages, rubygems]
 date:   2014-03-22 20:00:00
 ---
 

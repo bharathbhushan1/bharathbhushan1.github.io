@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Summary of a blog post by Kyunghyun Cho
-tags: machine learning
+tags: [ machine learning]
 date:   2019-04-19 20:00:00
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Some Interprocess communication patterns
 date:   2014-04-07 12:00:00
-tags: ipc
+tags: [ ipc]
 ---
 
 IPC patterns quick reference (from this [book][book]):

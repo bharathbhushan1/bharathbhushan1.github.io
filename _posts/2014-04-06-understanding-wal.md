@@ -2,7 +2,7 @@
 layout: post
 title:  Understanding Write Ahead Logging
 date:   2014-04-06 12:00:00
-tags: wal, write ahead logging
+tags: [ wal, write ahead logging]
 ---
 
 I am trying to understand WAL (Write Ahead Logging) from the perspective of
