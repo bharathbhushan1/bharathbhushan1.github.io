@@ -32,13 +32,12 @@ also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_Ind
 ## All posts
 <ul>
   {% for post in site.posts %}
-    <li>
+    <li> {{ post.date | date_to_string }}:
       <a href="{{ post.url }}">{{ post.title }}</a>
       (tags: 
         {% for t in post.tags %}
           {{ t }}
-        {% endfor %}
-      )
+        {% endfor %}) 
     </li>
   {% endfor %}
 </ul>
