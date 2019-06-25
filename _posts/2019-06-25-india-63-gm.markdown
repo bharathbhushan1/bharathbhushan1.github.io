@@ -3,7 +3,6 @@ layout: post
 title:  "India's 63rd GM - Girish Koushik"
 date:   2019-06-25 06:08:34 +0000
 categories: chess
-tags: [chess, india]
 ---
 
 Girish Koushik became Karnataka's 3rd and India's [63rd
