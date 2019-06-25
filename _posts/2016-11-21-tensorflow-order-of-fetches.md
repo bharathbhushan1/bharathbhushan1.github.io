@@ -25,3 +25,5 @@ I am playing with Tensorflow and found this interesting effect. The following co
     [3.0, 2.0]
     [4.0, 4.0]
 
+It looks like the order of fetches in Tensorflow is not fixed. For tensors, they might be evaluated after the ops or before the ops. Depending on the actual order the fetch result will be different.
+
