@@ -50,6 +50,7 @@ Some of the important products/features which I have been involved in:
   * [Audit logging for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
   * [Rewriter configuration for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
 * Zscaler
+  * [Policy infrastructure for Zscaler](https://help.zscaler.com/zia/documentation-knowledgebase/policies)
   * [Bandwidth control for Zscaler](https://www.zscaler.com/products/bandwidth-control)
   * [Bandwidth control policies for Zscaler](https://help.zscaler.com/zia/configuring-bandwidth-control-policy)
   * [Zscaler Central Authority](https://help.zscaler.com/zia/about-zscaler-cloud-architecture)
