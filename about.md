@@ -13,6 +13,7 @@ in the areas of [Big Data](https://en.wikipedia.org/wiki/Big_data) and
 also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_India), [philosophy](https://en.wikipedia.org/wiki/Indian_philosophy) and [Dharma](https://en.wikipedia.org/wiki/Dharma).
 
 ## Contact information
+* bharath.bhushan.id@gmail.com
 * [Twitter](https://twitter.com/bharath_bhushan)
 * [LinkedIn](https://in.linkedin.com/in/bharath-bhushan-5a8bb83)
 * [Github](https://github.com/bharathbhushan1/)
@@ -34,19 +35,23 @@ This is a list of some of my [patents](https://patents.google.com/?assignee=%22b
 I have given a [talk](https://www.youtube.com/watch?v=TGclcIv_QeU) at a Spark meetup. I have participated in a group discussion on Apache Spark at Fifth Elephant (2017).
 
 ## Important products/features
-Some of the important products/features which I have been involved with:
-* [Dynamic Filtering in Apache Spark](https://www.qubole.com/blog/enhance-spark-performance-with-dynamic-filtering/)
-* [Direct writes with Apache Spark](https://www.qubole.com/blog/direct-writes-to-increase-spark-performance/)
-* [Apache Spark on AWS Lambda](https://www.qubole.com/blog/spark-on-aws-lambda/)
-* [Optimizing listing in Apache Spark](https://www.qubole.com/blog/optimizing-split-computation-in-apache-spark/)
-* [Pre-Resolve DNS in mod_pagespeed](https://www.modpagespeed.com/doc/filter-insert-dns-prefetch)
-* [Pre-Resolve DNS in PageSpeed](https://developers.google.com/speed/pagespeed/service/PreResolveDns)
-* [Audit logging for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
-* [Rewriter configuration for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
-* [Bandwidth control for Zscaler](https://www.zscaler.com/products/bandwidth-control)
-* [Bandwidth control policies for Zscaler](https://help.zscaler.com/zia/configuring-bandwidth-control-policy)
-* [Zscaler Central Authority](https://help.zscaler.com/zia/about-zscaler-cloud-architecture)
-* [Integrated Caching in Netscaler](https://docs.citrix.com/en-us/netscaler/12/optimization/integrated-caching.html)
+Some of the important products/features which I have been involved in:
+* Qubole
+  * [Dynamic Filtering in Apache Spark](https://www.qubole.com/blog/enhance-spark-performance-with-dynamic-filtering/)
+  * [Direct writes with Apache Spark](https://www.qubole.com/blog/direct-writes-to-increase-spark-performance/)
+  * [Apache Spark on AWS Lambda](https://www.qubole.com/blog/spark-on-aws-lambda/)
+  * [Optimizing listing in Apache Spark](https://www.qubole.com/blog/optimizing-split-computation-in-apache-spark/)
+* Google
+  * [Pre-Resolve DNS in mod_pagespeed](https://www.modpagespeed.com/doc/filter-insert-dns-prefetch)
+  * [Pre-Resolve DNS in PageSpeed](https://developers.google.com/speed/pagespeed/service/PreResolveDns)
+  * [Audit logging for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
+  * [Rewriter configuration for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
+* Zscaler
+  * [Bandwidth control for Zscaler](https://www.zscaler.com/products/bandwidth-control)
+  * [Bandwidth control policies for Zscaler](https://help.zscaler.com/zia/configuring-bandwidth-control-policy)
+  * [Zscaler Central Authority](https://help.zscaler.com/zia/about-zscaler-cloud-architecture)
+* NetScaler/Citrix
+  * [Integrated Caching in Netscaler](https://docs.citrix.com/en-us/netscaler/12/optimization/integrated-caching.html)
 
 ## Old stuff
 At various times in the past I used to maintain a blog on [medium](https://medium.com/@manku_timma1), [github](http://manku-timma.github.io) and on [write.as](https://write.as/bharathbhushan/). I have now merged all those articles into this blog. I intend to henceforth maintain this as my only blog site.
