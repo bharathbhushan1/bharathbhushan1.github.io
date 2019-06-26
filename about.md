@@ -53,8 +53,11 @@ Some of the important products/features which I have been involved in:
   * [Bandwidth control for Zscaler](https://www.zscaler.com/products/bandwidth-control)
   * [Bandwidth control policies for Zscaler](https://help.zscaler.com/zia/configuring-bandwidth-control-policy)
   * [Zscaler Central Authority](https://help.zscaler.com/zia/about-zscaler-cloud-architecture)
+  * [LDAP Synchronization](https://help.zscaler.com/zia/synchronizing-users-directory-server)
 * NetScaler/Citrix
   * [Integrated Caching in Netscaler](https://docs.citrix.com/en-us/netscaler/12/optimization/integrated-caching.html)
+  * [HTTP Callouts](https://docs.citrix.com/en-us/netscaler/12/appexpert/http-callout.html)
+  * [Policy expressions](https://docs.citrix.com/en-us/netscaler/12/appexpert/policies-and-expressions/ns-pi-config-adv-expr-start-wrapper.html)
 
 ## Old stuff
 At various times in the past I used to maintain a blog on [medium](https://medium.com/@manku_timma1), [github](http://manku-timma.github.io) and on [write.as](https://write.as/bharathbhushan/). I have now merged all those articles into this blog. I intend to henceforth maintain this as my only blog site.
