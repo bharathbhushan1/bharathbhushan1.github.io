@@ -22,7 +22,8 @@ also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_Ind
 
 * [Qubole](https://www.qubole.com) (last role was Director Engineering, 2014-2018)
 * [Appcito](https://twitter.com/appcito?lang=en) (Consulting Software Engineer, 2014)
-* [Google](https://about.google/intl/en/) (Software Engineer III, 2011-2014)
+* [Google, US](https://about.google/intl/en/) (Software Engineer III, 2012-2014)
+* [Google, India](https://about.google/intl/en/) (Software Engineer III, 2011-2012)
 * [Zscaler](https://www.zscaler.com) (Senior Software Engineer, 2007-2011)
 * [NetScaler/Citrix](https://en.wikipedia.org/wiki/NetScaler) (Senior Software Engineer, 2004-2007)
 * [IIT Madras](https://www.iitm.ac.in) (MTech, Computer Science, 2002-2004)
