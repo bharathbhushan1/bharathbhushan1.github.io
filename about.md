@@ -37,10 +37,12 @@ I have given a [talk](https://www.youtube.com/watch?v=TGclcIv_QeU) at a Spark me
 ## Important products/features
 Some of the important products/features which I have been involved in:
 * Qubole
+  * [Deep Learning AMI](https://docs.qubole.com/en/latest/user-guide/data-science/deeplearning/)
   * [Dynamic Filtering in Apache Spark](https://www.qubole.com/blog/enhance-spark-performance-with-dynamic-filtering/)
   * [Direct writes with Apache Spark](https://www.qubole.com/blog/direct-writes-to-increase-spark-performance/)
-  * [Apache Spark on AWS Lambda](https://www.qubole.com/blog/spark-on-aws-lambda/)
+  * [Apache Spark on AWS Lambda](https://www.qubole.com/blog/spark-on-aws-lambda/) ([Github source](https://github.com/qubole/spark-on-lambda))
   * [Optimizing listing in Apache Spark](https://www.qubole.com/blog/optimizing-split-computation-in-apache-spark/)
+  * [Improving performance of Recover Partitions in Apache Spark](https://www.qubole.com/blog/recover-partitions-performance-spark-on-qubole/)
 * Google
   * [Pre-Resolve DNS in mod_pagespeed](https://www.modpagespeed.com/doc/filter-insert-dns-prefetch)
   * [Pre-Resolve DNS in PageSpeed](https://developers.google.com/speed/pagespeed/service/PreResolveDns)
