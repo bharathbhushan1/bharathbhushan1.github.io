@@ -45,6 +45,7 @@ Some of the important products/features which I have been involved in:
   * [Optimizing listing in Apache Spark](https://www.qubole.com/blog/optimizing-split-computation-in-apache-spark/)
   * [Improving performance of Recover Partitions in Apache Spark](https://www.qubole.com/blog/recover-partitions-performance-spark-on-qubole/)
 * Google
+  * [Fix HTML reflows automatically](https://github.com/apache/incubator-pagespeed-mod/wiki/Design-Doc:-Detecting-and-Fixing-Reflows)
   * [Pre-Resolve DNS in mod_pagespeed](https://www.modpagespeed.com/doc/filter-insert-dns-prefetch)
   * [Pre-Resolve DNS in PageSpeed](https://developers.google.com/speed/pagespeed/service/PreResolveDns)
   * [Audit logging for PageSpeed](https://developers.google.com/speed/pagespeed/service/settings)
