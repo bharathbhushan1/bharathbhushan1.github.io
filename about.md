@@ -60,6 +60,8 @@ Some of the important products/features which I have been involved in:
   * [Integrated Caching in Netscaler](https://docs.citrix.com/en-us/netscaler/12/optimization/integrated-caching.html)
   * [HTTP Callouts](https://docs.citrix.com/en-us/netscaler/12/appexpert/http-callout.html)
   * [Policy expressions](https://docs.citrix.com/en-us/netscaler/12/appexpert/policies-and-expressions/ns-pi-config-adv-expr-start-wrapper.html)
+* IIT Madras
+  * [Meghadoot, A wireless mesh routing protocol](http://www.ncc.org.in/authorsearchindex.php?k=B&s=0&ln=Bharath%20Bhushan) ([paper](/content/meghadoot.pdf))
 
 ## Old stuff
 At various times in the past I used to maintain a blog on [medium](https://medium.com/@manku_timma1), [github](http://manku-timma.github.io) and on [write.as](https://write.as/bharathbhushan/). I have now merged all those articles into this blog. I intend to henceforth maintain this as my only blog site.
