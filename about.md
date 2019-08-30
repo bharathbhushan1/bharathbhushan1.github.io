@@ -14,6 +14,7 @@ also interested in [Indian history](https://en.wikipedia.org/wiki/History_of_Ind
 
 ## Contact information
 * bharath.bhushan.id@gmail.com
+* [AngelList](https://angel.co/bharath-bhushan-8)
 * [Twitter](https://twitter.com/bharath_bhushan)
 * [LinkedIn](https://in.linkedin.com/in/bharath-bhushan-5a8bb83)
 * [Github](https://github.com/bharathbhushan1/)
